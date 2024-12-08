@@ -1,1 +1,1 @@
-# Syntax-Analyzer
+# Lexical Analyzer
